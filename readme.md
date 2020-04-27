@@ -1,3 +1,10 @@
+# RedTeam-Tips
+
+> 正在学习红队评估，特开此坑，欢迎各位在issues提交好的文献，持续更新，star支持一下，协助修正完善。
+> 资料均来自网上收集,如未标明作者有侵权行为,请及时联系h4x0er[at]secbug.org进行删除或修改。
+> 喜欢请点 Star，如果不打算贡献，千万别 Fork，Fork后的版本不会自动同步更新最新的版本，你不会享受到最新版本给你带来的快乐和惊喜。
+
+
 [域安全浅析-基础概念及历史漏洞分析](https://mp.weixin.qq.com/s/R1J6UFKw_m8PVuI_pcUMkA)
 
 [内网渗透TIPS](https://github.com/Ridter/Intranet_Penetration_Tips)
@@ -89,5 +96,9 @@
 [关于后渗透当中Windows系统自带签名文件的白利用](https://lolbas-project.github.io/)
 
 [ATT&CK手册(修改版).pdf](https://github.com/Dm2333/ATTCK-PenTester-Book)
+
+[红队人员作战手册](https://github.com/klionsec/RedTeamer)
+
+[云上攻防：RED TEAMING FOR CLOUD](http://avfisher.win/archives/1175)
 
 后期计划重新细分下相关资料标签
